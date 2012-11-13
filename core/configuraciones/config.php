@@ -2,6 +2,8 @@
 // Archivo de configuración de las bases de datos...
 //-----------------------------------
 // Creador = Augusto Lozada.
+// Configuraciones Generales.
+
 
 // Usario de la base de datos.
 $user = 'root';
